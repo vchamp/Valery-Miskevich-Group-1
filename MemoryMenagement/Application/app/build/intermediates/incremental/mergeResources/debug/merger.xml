@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res" >
+            <file
+                name="photogrid_list_selector"
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/drawable/photogrid_list_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tile"
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/drawable-hdpi/tile.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="empty_photo"
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/drawable-nodpi/empty_photo.png"
+                qualifiers="nodpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_image_pager"
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/layout/activity_image_pager.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_grid"
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/layout/fragment_grid.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_image"
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/layout/fragment_image.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="grid_state_focused" >#80000000
+                </color>
+                <color name="grid_state_pressed" >#1Affffff
+                </color>
+                <color name="grid_state_selected" >#AAFFFF00
+                </color>
+            </file>
+            <file
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="image_thumbnail_spacing" >8dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="image_thumbnail_size" >100dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >MemoryManagement
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style name="PhotoGridLayout" >
+                    <item name="android:drawSelectorOnTop">
+true
+                    </item>
+                    <item name="android:listSelector">
+@drawable/photogrid_list_selector
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/build/generated/res/rs/debug" />
+        <source path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/ilya.shknaj/Android/workspace_android/MemoryManagement/app/src/debug/res" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,802 @@
+10-19 15:17:22.710  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:23.577  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 87K, 3% free 8215K/8455K, paused 2ms+98ms, total 867ms
+10-19 15:17:23.604  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed 3K, 3% free 8211K/8455K, paused 25ms, total 26ms
+10-19 15:17:23.624  26214-26227/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 9.896MB for 1898512-byte allocation
+10-19 15:17:23.651  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 3% free 10065K/10311K, paused 12ms+2ms, total 25ms
+10-19 15:17:24.136  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:24.175  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 3% free 10066K/10311K, paused 6ms+3ms, total 42ms
+10-19 15:17:24.179  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:24.237  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 3% free 10066K/10311K, paused 3ms+3ms, total 59ms
+10-19 15:17:24.253  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 3% free 10066K/10311K, paused 14ms, total 15ms
+10-19 15:17:24.257  26214-26240/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 11.708MB for 1898512-byte allocation
+10-19 15:17:24.284  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 3% free 11920K/12167K, paused 12ms+2ms, total 28ms
+10-19 15:17:24.483  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:24.518  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 3% free 11920K/12167K, paused 2ms+5ms, total 35ms
+10-19 15:17:24.597  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:24.624  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 3% free 11921K/12167K, paused 2ms+2ms, total 26ms
+10-19 15:17:24.643  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 3% free 11920K/12167K, paused 18ms, total 18ms
+10-19 15:17:24.647  26214-26241/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 13.135MB for 1497016-byte allocation
+10-19 15:17:24.675  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 2% free 13382K/13639K, paused 12ms+3ms, total 26ms
+10-19 15:17:24.925  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:24.948  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 2% free 13383K/13639K, paused 1ms+2ms, total 24ms
+10-19 15:17:24.952  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:25.011  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 2% free 13383K/13639K, paused 3ms+3ms, total 60ms
+10-19 15:17:25.077  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:25.104  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 2% free 14383K/14663K, paused 2ms+3ms, total 25ms
+10-19 15:17:25.140  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:25.175  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1K, 2% free 14384K/14663K, paused 5ms+2ms, total 35ms
+10-19 15:17:25.190  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 2% free 14383K/14663K, paused 15ms, total 15ms
+10-19 15:17:25.198  26214-26243/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 15.944MB for 1920016-byte allocation
+10-19 15:17:25.331  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed 0K, 2% free 16258K/16583K, paused 14ms, total 15ms
+10-19 15:17:25.331  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:25.354  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 2% free 16259K/16583K, paused 2ms+3ms, total 25ms
+10-19 15:17:25.390  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:25.433  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 65K, 3% free 16195K/16583K, paused 10ms+3ms, total 40ms
+10-19 15:17:25.448  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 3% free 16194K/16583K, paused 14ms, total 14ms
+10-19 15:17:25.452  26214-26243/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 17.692MB for 1898512-byte allocation
+10-19 15:17:25.643  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed 0K, 3% free 18048K/18439K, paused 15ms, total 15ms
+10-19 15:17:25.643  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:25.675  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 3% free 18048K/18439K, paused 2ms+7ms, total 31ms
+10-19 15:17:25.675  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:25.706  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 3% free 18048K/18439K, paused 3ms+3ms, total 31ms
+10-19 15:17:25.722  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 3% free 18048K/18439K, paused 15ms, total 15ms
+10-19 15:17:25.733  26214-26243/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 19.502MB for 1898512-byte allocation
+10-19 15:17:25.921  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed 0K, 2% free 19902K/20295K, paused 14ms, total 14ms
+10-19 15:17:25.921  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:25.948  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 2% free 19902K/20295K, paused 2ms+3ms, total 26ms
+10-19 15:17:27.397  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:27.452  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 7026K, 37% free 12946K/20295K, paused 2ms+3ms, total 56ms
+10-19 15:17:27.476  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 37% free 12945K/20295K, paused 23ms, total 23ms
+10-19 15:17:27.487  26214-26241/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 17.652MB for 5184016-byte allocation
+10-19 15:17:27.511  26214-26214/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed 0K, 30% free 18007K/25415K, paused 25ms, total 25ms
+10-19 15:17:27.558  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed <1K, 30% free 18009K/25415K, paused 15ms+3ms, total 44ms
+10-19 15:17:28.061  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:28.101  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1K, 30% free 18017K/25415K, paused 2ms+5ms, total 39ms
+10-19 15:17:28.108  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:28.147  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 5063K, 50% free 12956K/25415K, paused 2ms+11ms, total 40ms
+10-19 15:17:28.222  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:28.268  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13726K/25415K, paused 2ms+4ms, total 45ms
+10-19 15:17:28.268  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:28.308  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 50% free 12958K/25415K, paused 2ms+4ms, total 40ms
+10-19 15:17:28.331  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12958K/25415K, paused 20ms, total 21ms
+10-19 15:17:28.331  26214-26241/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.699MB for 2073616-byte allocation
+10-19 15:17:28.366  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14983K/25415K, paused 12ms+7ms, total 32ms
+10-19 15:17:28.366  26214-26214/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 20ms
+10-19 15:17:28.726  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:28.765  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14983K/25415K, paused 7ms+4ms, total 37ms
+10-19 15:17:28.768  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:28.815  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 50% free 12958K/25415K, paused 17ms+4ms, total 48ms
+10-19 15:17:28.843  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12958K/25415K, paused 20ms, total 20ms
+10-19 15:17:28.847  26214-26240/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.699MB for 2073616-byte allocation
+10-19 15:17:28.886  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14983K/25415K, paused 15ms+4ms, total 37ms
+10-19 15:17:29.038  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:29.077  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14983K/25415K, paused 3ms+8ms, total 38ms
+10-19 15:17:29.077  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:29.116  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 42% free 14983K/25415K, paused 2ms+3ms, total 37ms
+10-19 15:17:29.183  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:29.222  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 47% free 13503K/25415K, paused 2ms+8ms, total 37ms
+10-19 15:17:29.222  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:29.272  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13503K/25415K, paused 15ms+3ms, total 49ms
+10-19 15:17:29.292  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed 546K, 50% free 12957K/25415K, paused 20ms, total 20ms
+10-19 15:17:29.296  26214-26242/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.551MB for 1920016-byte allocation
+10-19 15:17:29.331  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed <1K, 42% free 14832K/25415K, paused 14ms+3ms, total 36ms
+10-19 15:17:29.436  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:29.460  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14832K/25415K, paused 2ms+3ms, total 27ms
+10-19 15:17:29.464  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:29.491  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 50% free 12957K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:29.542  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:29.569  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13674K/25415K, paused 3ms+4ms, total 26ms
+10-19 15:17:29.569  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:29.597  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 718K, 50% free 12957K/25415K, paused 3ms+3ms, total 26ms
+10-19 15:17:29.640  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:29.663  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13725K/25415K, paused 1ms+3ms, total 25ms
+10-19 15:17:29.663  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:29.694  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 50% free 12956K/25415K, paused 3ms+4ms, total 27ms
+10-19 15:17:29.706  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12956K/25415K, paused 15ms, total 15ms
+10-19 15:17:29.710  26214-26242/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.530MB for 1898512-byte allocation
+10-19 15:17:29.737  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14810K/25415K, paused 12ms+2ms, total 29ms
+10-19 15:17:29.917  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:29.940  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14810K/25415K, paused 1ms+3ms, total 25ms
+10-19 15:17:29.944  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:29.968  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1854K, 50% free 12956K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:29.983  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12956K/25415K, paused 15ms, total 15ms
+10-19 15:17:29.987  26214-26242/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.550MB for 1920016-byte allocation
+10-19 15:17:30.015  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14831K/25415K, paused 12ms+2ms, total 27ms
+10-19 15:17:30.116  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:30.140  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14831K/25415K, paused 2ms+3ms, total 27ms
+10-19 15:17:30.143  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:30.167  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 50% free 12956K/25415K, paused 3ms+3ms, total 26ms
+10-19 15:17:30.218  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:30.245  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13673K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:30.245  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:30.272  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 718K, 50% free 12956K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:30.315  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:30.339  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13724K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:30.343  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:30.378  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 50% free 12955K/25415K, paused 13ms+3ms, total 36ms
+10-19 15:17:30.620  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:30.647  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 44% free 14417K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:30.647  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:30.675  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1462K, 50% free 12955K/25415K, paused 3ms+3ms, total 26ms
+10-19 15:17:30.733  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:30.757  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13955K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:30.761  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:30.784  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1000K, 50% free 12955K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:30.800  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12954K/25415K, paused 15ms, total 15ms
+10-19 15:17:30.800  26214-26243/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.548MB for 1920016-byte allocation
+10-19 15:17:30.827  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14829K/25415K, paused 12ms+3ms, total 26ms
+10-19 15:17:30.944  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:30.972  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14830K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:30.972  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:30.999  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 50% free 12954K/25415K, paused 3ms+4ms, total 27ms
+10-19 15:17:31.015  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12954K/25415K, paused 14ms, total 14ms
+10-19 15:17:31.018  26214-26243/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 17.661MB for 5184016-byte allocation
+10-19 15:17:31.046  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 30% free 18017K/25415K, paused 12ms+3ms, total 29ms
+10-19 15:17:31.522  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:31.561  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 30% free 18022K/25415K, paused 2ms+3ms, total 38ms
+10-19 15:17:31.565  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:31.624  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 5063K, 50% free 12960K/25415K, paused 2ms+10ms, total 58ms
+10-19 15:17:31.698  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:31.737  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13729K/25415K, paused 2ms+3ms, total 38ms
+10-19 15:17:31.737  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:31.780  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 50% free 12961K/25415K, paused 2ms+4ms, total 44ms
+10-19 15:17:31.804  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12961K/25415K, paused 22ms, total 22ms
+10-19 15:17:31.808  26214-26243/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.702MB for 2073616-byte allocation
+10-19 15:17:31.843  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14986K/25415K, paused 12ms+3ms, total 38ms
+10-19 15:17:32.128  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:32.183  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 42% free 14988K/25415K, paused 2ms+4ms, total 55ms
+10-19 15:17:32.186  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:32.226  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 49% free 12963K/25415K, paused 3ms+3ms, total 38ms
+10-19 15:17:32.245  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12962K/25415K, paused 23ms, total 23ms
+10-19 15:17:32.249  26214-26243/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.703MB for 2073616-byte allocation
+10-19 15:17:32.292  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14987K/25415K, paused 13ms+6ms, total 41ms
+10-19 15:17:32.444  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:32.487  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 42% free 14989K/25415K, paused 2ms+4ms, total 42ms
+10-19 15:17:32.487  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:32.526  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 49% free 12964K/25415K, paused 2ms+3ms, total 39ms
+10-19 15:17:32.604  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:32.647  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13511K/25415K, paused 2ms+10ms, total 40ms
+10-19 15:17:32.647  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:32.706  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 546K, 49% free 12965K/25415K, paused 3ms+13ms, total 57ms
+10-19 15:17:32.726  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12965K/25415K, paused 20ms, total 20ms
+10-19 15:17:32.729  26214-26243/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.539MB for 1898512-byte allocation
+10-19 15:17:32.761  26214-26214/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed 0K, 42% free 14819K/25415K, paused 30ms, total 30ms
+10-19 15:17:32.823  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed <1K, 42% free 14820K/25415K, paused 14ms+19ms, total 63ms
+10-19 15:17:33.061  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:33.108  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 42% free 14820K/25415K, paused 3ms+4ms, total 46ms
+10-19 15:17:33.108  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:33.151  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 42% free 14820K/25415K, paused 3ms+3ms, total 40ms
+10-19 15:17:33.296  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:33.335  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1854K, 42% free 14841K/25415K, paused 2ms+4ms, total 41ms
+10-19 15:17:33.335  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:33.382  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 49% free 12966K/25415K, paused 2ms+10ms, total 41ms
+10-19 15:17:33.456  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:33.495  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13683K/25415K, paused 2ms+4ms, total 42ms
+10-19 15:17:33.503  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:33.546  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 718K, 49% free 12965K/25415K, paused 3ms+4ms, total 41ms
+10-19 15:17:33.601  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:33.640  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13733K/25415K, paused 2ms+4ms, total 38ms
+10-19 15:17:33.640  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:33.686  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 49% free 12965K/25415K, paused 2ms+10ms, total 38ms
+10-19 15:17:33.710  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12965K/25415K, paused 21ms, total 21ms
+10-19 15:17:33.710  26214-26240/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.539MB for 1898512-byte allocation
+10-19 15:17:33.753  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14819K/25415K, paused 12ms+8ms, total 42ms
+10-19 15:17:33.753  26214-26214/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 20ms
+10-19 15:17:34.030  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:34.069  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1K, 42% free 14824K/25415K, paused 2ms+4ms, total 39ms
+10-19 15:17:34.077  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:34.116  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1855K, 49% free 12970K/25415K, paused 2ms+9ms, total 40ms
+10-19 15:17:34.140  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12969K/25415K, paused 22ms, total 22ms
+10-19 15:17:34.143  26214-26243/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.563MB for 1920016-byte allocation
+10-19 15:17:34.171  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14844K/25415K, paused 12ms+3ms, total 30ms
+10-19 15:17:34.171  26214-26214/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 16ms
+10-19 15:17:34.288  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:34.323  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 42% free 14845K/25415K, paused 2ms+3ms, total 35ms
+10-19 15:17:34.327  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:34.362  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 49% free 12970K/25415K, paused 4ms+3ms, total 36ms
+10-19 15:17:34.421  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:34.456  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13687K/25415K, paused 1ms+4ms, total 34ms
+10-19 15:17:34.456  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:34.491  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 718K, 49% free 12970K/25415K, paused 2ms+6ms, total 32ms
+10-19 15:17:34.534  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:34.561  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13738K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:34.561  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:34.589  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 49% free 12969K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:34.858  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:34.913  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 44% free 14431K/25415K, paused 9ms+4ms, total 48ms
+10-19 15:17:34.913  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:34.956  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1462K, 49% free 12969K/25415K, paused 2ms+8ms, total 36ms
+10-19 15:17:35.030  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:35.058  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13969K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:35.058  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:35.085  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1000K, 49% free 12969K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:35.101  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12969K/25415K, paused 15ms, total 15ms
+10-19 15:17:35.101  26214-26227/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.562MB for 1920016-byte allocation
+10-19 15:17:35.128  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14844K/25415K, paused 12ms+3ms, total 27ms
+10-19 15:17:35.249  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:35.272  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14844K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:35.276  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:35.304  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 49% free 12969K/25415K, paused 3ms+3ms, total 27ms
+10-19 15:17:35.550  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:35.573  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 44% free 14430K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:35.577  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:35.604  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1462K, 49% free 12968K/25415K, paused 3ms+4ms, total 26ms
+10-19 15:17:35.616  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12968K/25415K, paused 14ms, total 14ms
+10-19 15:17:35.620  26214-26227/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 17.674MB for 5184016-byte allocation
+10-19 15:17:35.651  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 30% free 18031K/25415K, paused 12ms+3ms, total 28ms
+10-19 15:17:35.991  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:36.018  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 30% free 18031K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:36.018  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:36.046  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 5063K, 49% free 12968K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:36.097  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:36.124  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13736K/25415K, paused 3ms+3ms, total 26ms
+10-19 15:17:36.124  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:36.155  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 49% free 12968K/25415K, paused 3ms+3ms, total 29ms
+10-19 15:17:36.171  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12967K/25415K, paused 15ms, total 15ms
+10-19 15:17:36.171  26214-26227/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.708MB for 2073616-byte allocation
+10-19 15:17:36.198  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14992K/25415K, paused 12ms+3ms, total 28ms
+10-19 15:17:36.397  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:36.421  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14993K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:36.421  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:36.452  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 49% free 12967K/25415K, paused 2ms+6ms, total 29ms
+10-19 15:17:36.472  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12967K/25415K, paused 19ms, total 19ms
+10-19 15:17:36.476  26214-26227/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.708MB for 2073616-byte allocation
+10-19 15:17:36.503  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14992K/25415K, paused 12ms+2ms, total 27ms
+10-19 15:17:36.601  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:36.624  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14992K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:36.628  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:36.675  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 42% free 14992K/25415K, paused 16ms+4ms, total 46ms
+10-19 15:17:36.726  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:36.753  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 47% free 13513K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:36.753  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:36.780  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 546K, 49% free 12967K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:36.839  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:36.866  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13967K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:36.866  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:36.893  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1000K, 49% free 12966K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:36.909  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12966K/25415K, paused 14ms, total 14ms
+10-19 15:17:36.909  26214-26242/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.560MB for 1920016-byte allocation
+10-19 15:17:36.936  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14841K/25415K, paused 12ms+2ms, total 27ms
+10-19 15:17:37.077  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:37.101  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14841K/25415K, paused 1ms+3ms, total 25ms
+10-19 15:17:37.104  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:37.128  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 49% free 12966K/25415K, paused 2ms+3ms, total 27ms
+10-19 15:17:37.147  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12966K/25415K, paused 18ms, total 18ms
+10-19 15:17:37.155  26214-26242/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 17.672MB for 5184016-byte allocation
+10-19 15:17:37.198  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 30% free 18028K/25415K, paused 12ms+4ms, total 42ms
+10-19 15:17:37.776  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:37.800  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 30% free 18028K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:37.800  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:37.827  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 5063K, 49% free 12966K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:37.882  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:37.905  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13734K/25415K, paused 1ms+3ms, total 25ms
+10-19 15:17:37.905  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:37.933  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 49% free 12965K/25415K, paused 3ms+3ms, total 26ms
+10-19 15:17:37.948  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12965K/25415K, paused 14ms, total 14ms
+10-19 15:17:37.952  26214-26242/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.706MB for 2073616-byte allocation
+10-19 15:17:37.979  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14990K/25415K, paused 11ms+2ms, total 28ms
+10-19 15:17:38.190  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:38.214  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14990K/25415K, paused 1ms+4ms, total 25ms
+10-19 15:17:38.218  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:38.245  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 49% free 12965K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:38.257  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12965K/25415K, paused 14ms, total 14ms
+10-19 15:17:38.261  26214-26242/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.706MB for 2073616-byte allocation
+10-19 15:17:38.288  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14990K/25415K, paused 12ms+3ms, total 27ms
+10-19 15:17:38.386  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:38.413  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14990K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:38.413  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 1ms
+10-19 15:17:38.440  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 49% free 12965K/25415K, paused 3ms+4ms, total 27ms
+10-19 15:17:38.491  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:38.515  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13510K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:38.515  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:38.542  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 546K, 49% free 12964K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:38.558  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12964K/25415K, paused 14ms, total 14ms
+10-19 15:17:38.561  26214-26242/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.558MB for 1920016-byte allocation
+10-19 15:17:38.589  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14839K/25415K, paused 11ms+2ms, total 29ms
+10-19 15:17:38.718  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:38.741  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14839K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:38.745  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:38.772  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 49% free 12964K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:38.784  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12964K/25415K, paused 14ms, total 14ms
+10-19 15:17:38.788  26214-26242/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 17.670MB for 5184016-byte allocation
+10-19 15:17:38.815  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 30% free 18026K/25415K, paused 12ms+3ms, total 28ms
+10-19 15:17:39.140  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:39.175  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 30% free 18027K/25415K, paused 2ms+3ms, total 35ms
+10-19 15:17:39.179  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:39.206  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 5063K, 49% free 12964K/25415K, paused 2ms+3ms, total 28ms
+10-19 15:17:39.257  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:39.280  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13510K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:39.284  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:39.311  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 546K, 49% free 12964K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:39.366  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:39.393  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13964K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:39.397  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:39.421  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1000K, 49% free 12963K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:39.436  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12963K/25415K, paused 15ms, total 15ms
+10-19 15:17:39.440  26214-26242/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.704MB for 2073616-byte allocation
+10-19 15:17:39.468  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14988K/25415K, paused 12ms+3ms, total 27ms
+10-19 15:17:39.659  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:39.690  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14988K/25415K, paused 2ms+3ms, total 30ms
+10-19 15:17:39.690  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:39.726  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 49% free 12963K/25415K, paused 2ms+3ms, total 34ms
+10-19 15:17:39.741  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12963K/25415K, paused 16ms, total 16ms
+10-19 15:17:39.745  26214-26242/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.704MB for 2073616-byte allocation
+10-19 15:17:39.772  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14988K/25415K, paused 12ms+2ms, total 27ms
+10-19 15:17:39.870  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:39.897  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14988K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:39.897  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:39.925  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 49% free 12963K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:39.940  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12962K/25415K, paused 14ms, total 14ms
+10-19 15:17:39.944  26214-26242/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 17.669MB for 5184016-byte allocation
+10-19 15:17:39.972  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 30% free 18025K/25415K, paused 11ms+3ms, total 27ms
+10-19 15:17:40.308  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:40.335  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 30% free 18025K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:40.335  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:40.374  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 30% free 18025K/25415K, paused 12ms+3ms, total 35ms
+10-19 15:17:40.421  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:40.448  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 5062K, 46% free 13730K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:40.448  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:40.476  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 49% free 12962K/25415K, paused 3ms+3ms, total 27ms
+10-19 15:17:40.491  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 49% free 12962K/25415K, paused 15ms, total 15ms
+10-19 15:17:40.491  26214-26241/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.556MB for 1920016-byte allocation
+10-19 15:17:40.522  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14837K/25415K, paused 12ms+3ms, total 28ms
+10-19 15:17:40.636  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:40.663  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14837K/25415K, paused 2ms+4ms, total 25ms
+10-19 15:17:40.663  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:40.690  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 49% free 12962K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:40.936  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:40.960  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 44% free 14424K/25415K, paused 2ms+4ms, total 26ms
+10-19 15:17:40.964  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:40.991  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1462K, 50% free 12961K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:41.218  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:41.241  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 44% free 14423K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:41.245  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:41.272  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1462K, 50% free 12961K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:41.327  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:41.362  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13961K/25415K, paused 2ms+3ms, total 34ms
+10-19 15:17:41.362  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:41.397  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1000K, 50% free 12961K/25415K, paused 2ms+3ms, total 32ms
+10-19 15:17:41.444  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:41.472  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13678K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:41.472  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:41.499  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 718K, 50% free 12960K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:41.538  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:41.565  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13728K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:41.565  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:41.593  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 50% free 12960K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:41.608  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12960K/25415K, paused 15ms, total 15ms
+10-19 15:17:41.608  26214-26241/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.534MB for 1898512-byte allocation
+10-19 15:17:41.640  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14814K/25415K, paused 12ms+2ms, total 28ms
+10-19 15:17:41.811  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:41.839  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14814K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:41.839  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:41.866  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1854K, 50% free 12960K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:41.882  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12960K/25415K, paused 15ms, total 15ms
+10-19 15:17:41.882  26214-26241/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.553MB for 1920016-byte allocation
+10-19 15:17:41.913  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14835K/25415K, paused 12ms+3ms, total 31ms
+10-19 15:17:42.003  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:42.026  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14835K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:42.026  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:42.065  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 42% free 14835K/25415K, paused 12ms+4ms, total 35ms
+10-19 15:17:42.112  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:42.140  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 47% free 13677K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:42.140  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:42.167  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 718K, 50% free 12959K/25415K, paused 2ms+5ms, total 28ms
+10-19 15:17:42.222  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:42.245  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13727K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:42.245  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:42.272  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 50% free 12959K/25415K, paused 2ms+4ms, total 26ms
+10-19 15:17:42.288  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12959K/25415K, paused 14ms, total 14ms
+10-19 15:17:42.288  26214-26227/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.533MB for 1898512-byte allocation
+10-19 15:17:42.319  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14813K/25415K, paused 12ms+3ms, total 30ms
+10-19 15:17:42.511  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:42.538  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14813K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:42.538  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:42.565  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1854K, 50% free 12959K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:42.581  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12958K/25415K, paused 14ms, total 14ms
+10-19 15:17:42.581  26214-26227/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.552MB for 1920016-byte allocation
+10-19 15:17:42.608  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14833K/25415K, paused 12ms+2ms, total 27ms
+10-19 15:17:42.690  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:42.714  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14834K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:42.718  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:42.745  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 50% free 12958K/25415K, paused 2ms+3ms, total 27ms
+10-19 15:17:42.757  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12958K/25415K, paused 14ms, total 14ms
+10-19 15:17:42.761  26214-26227/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.699MB for 2073616-byte allocation
+10-19 15:17:42.788  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14983K/25415K, paused 11ms+2ms, total 28ms
+10-19 15:17:42.882  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:42.909  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14983K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:42.909  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:42.944  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 50% free 12958K/25415K, paused 2ms+7ms, total 34ms
+10-19 15:17:42.991  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:43.018  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13504K/25415K, paused 2ms+4ms, total 25ms
+10-19 15:17:43.018  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:43.046  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 546K, 50% free 12958K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:43.097  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:43.120  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13726K/25415K, paused 1ms+3ms, total 25ms
+10-19 15:17:43.124  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:43.151  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 50% free 12957K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:43.163  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12957K/25415K, paused 14ms, total 14ms
+10-19 15:17:43.167  26214-26227/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.698MB for 2073616-byte allocation
+10-19 15:17:43.194  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14982K/25415K, paused 11ms+3ms, total 26ms
+10-19 15:17:43.382  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:43.409  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14982K/25415K, paused 2ms+4ms, total 26ms
+10-19 15:17:43.409  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:43.436  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 50% free 12957K/25415K, paused 3ms+3ms, total 26ms
+10-19 15:17:43.460  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12957K/25415K, paused 23ms, total 23ms
+10-19 15:17:43.460  26214-26227/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.551MB for 1920016-byte allocation
+10-19 15:17:43.487  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14832K/25415K, paused 12ms+3ms, total 28ms
+10-19 15:17:43.608  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:43.632  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14832K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:43.632  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:43.659  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 50% free 12957K/25415K, paused 3ms+3ms, total 26ms
+10-19 15:17:43.675  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12957K/25415K, paused 14ms, total 14ms
+10-19 15:17:43.679  26214-26227/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 17.664MB for 5184016-byte allocation
+10-19 15:17:43.710  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 30% free 18019K/25415K, paused 11ms+3ms, total 28ms
+10-19 15:17:44.038  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:44.061  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 30% free 18019K/25415K, paused 1ms+3ms, total 25ms
+10-19 15:17:44.065  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:44.089  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 5063K, 50% free 12956K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:44.319  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:44.343  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 44% free 14418K/25415K, paused 3ms+3ms, total 26ms
+10-19 15:17:44.347  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:44.382  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 44% free 14418K/25415K, paused 12ms+3ms, total 35ms
+10-19 15:17:44.436  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:44.464  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1462K, 46% free 13956K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:44.464  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:44.499  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1000K, 50% free 12956K/25415K, paused 3ms+3ms, total 30ms
+10-19 15:17:44.550  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:44.573  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13673K/25415K, paused 1ms+3ms, total 25ms
+10-19 15:17:44.577  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:44.601  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 717K, 50% free 12956K/25415K, paused 3ms+3ms, total 26ms
+10-19 15:17:44.643  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:44.667  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13724K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:44.671  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:44.706  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13724K/25415K, paused 12ms+3ms, total 35ms
+10-19 15:17:44.737  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 768K, 42% free 14809K/25415K, paused 12ms+3ms, total 32ms
+10-19 15:17:44.913  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:44.940  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 42% free 14809K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:44.940  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:44.976  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 42% free 14809K/25415K, paused 12ms+3ms, total 35ms
+10-19 15:17:45.069  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:45.093  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1854K, 42% free 14830K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:45.097  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:45.132  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 42% free 14830K/25415K, paused 13ms+3ms, total 35ms
+10-19 15:17:45.183  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:45.206  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 47% free 13672K/25415K, paused 2ms+4ms, total 25ms
+10-19 15:17:45.210  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:45.237  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 718K, 50% free 12954K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:45.276  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:45.304  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13722K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:45.304  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:45.331  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 50% free 12954K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:45.378  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:45.401  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13500K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:45.409  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:45.433  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 546K, 50% free 12954K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:45.448  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12954K/25415K, paused 14ms, total 14ms
+10-19 15:17:45.452  26214-26241/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.547MB for 1920016-byte allocation
+10-19 15:17:45.479  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14829K/25415K, paused 12ms+2ms, total 29ms
+10-19 15:17:45.569  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:45.597  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14829K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:45.597  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:45.624  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 50% free 12953K/25415K, paused 3ms+3ms, total 26ms
+10-19 15:17:45.636  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12953K/25415K, paused 14ms, total 14ms
+10-19 15:17:45.640  26214-26241/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.694MB for 2073616-byte allocation
+10-19 15:17:45.667  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14978K/25415K, paused 12ms+3ms, total 27ms
+10-19 15:17:45.878  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:45.905  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14978K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:45.905  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:45.933  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 50% free 12953K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:45.948  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12953K/25415K, paused 14ms, total 14ms
+10-19 15:17:45.948  26214-26241/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.694MB for 2073616-byte allocation
+10-19 15:17:45.976  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14978K/25415K, paused 11ms+3ms, total 28ms
+10-19 15:17:46.081  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:46.108  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14978K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:46.108  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:46.136  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 50% free 12953K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:46.147  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12953K/25415K, paused 15ms, total 15ms
+10-19 15:17:46.155  26214-26241/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 17.660MB for 5184016-byte allocation
+10-19 15:17:46.183  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 30% free 18015K/25415K, paused 12ms+3ms, total 30ms
+10-19 15:17:46.522  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:46.554  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 30% free 18015K/25415K, paused 2ms+3ms, total 34ms
+10-19 15:17:46.558  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:46.593  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 5063K, 50% free 12953K/25415K, paused 12ms+3ms, total 35ms
+10-19 15:17:46.643  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:46.667  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13721K/25415K, paused 1ms+3ms, total 25ms
+10-19 15:17:46.671  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:46.694  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 50% free 12952K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:46.933  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:46.960  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 44% free 14414K/25415K, paused 1ms+3ms, total 25ms
+10-19 15:17:46.960  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:46.987  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1462K, 50% free 12952K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:46.999  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12952K/25415K, paused 14ms, total 14ms
+10-19 15:17:47.003  26214-26243/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 17.659MB for 5184016-byte allocation
+10-19 15:17:47.034  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 30% free 18014K/25415K, paused 12ms+3ms, total 27ms
+10-19 15:17:47.362  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:47.386  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 30% free 18014K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:47.386  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:47.413  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 5063K, 50% free 12952K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:47.464  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:47.491  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13720K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:47.491  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:47.518  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 50% free 12951K/25415K, paused 3ms+3ms, total 26ms
+10-19 15:17:47.534  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12951K/25415K, paused 14ms, total 14ms
+10-19 15:17:47.534  26214-26243/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.692MB for 2073616-byte allocation
+10-19 15:17:47.561  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14976K/25415K, paused 11ms+3ms, total 26ms
+10-19 15:17:47.757  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:47.784  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14976K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:47.784  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:47.811  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 50% free 12951K/25415K, paused 3ms+3ms, total 27ms
+10-19 15:17:47.827  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12951K/25415K, paused 14ms, total 14ms
+10-19 15:17:47.827  26214-26243/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.692MB for 2073616-byte allocation
+10-19 15:17:47.854  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14976K/25415K, paused 12ms+3ms, total 27ms
+10-19 15:17:47.948  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:47.976  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14976K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:47.976  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:48.011  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 42% free 14976K/25415K, paused 12ms+3ms, total 35ms
+10-19 15:17:48.061  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:48.085  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 47% free 13496K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:48.085  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:48.124  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 546K, 50% free 12950K/25415K, paused 12ms+3ms, total 37ms
+10-19 15:17:48.140  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12950K/25415K, paused 14ms, total 14ms
+10-19 15:17:48.140  26214-26242/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.544MB for 1920016-byte allocation
+10-19 15:17:48.171  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14825K/25415K, paused 12ms+3ms, total 28ms
+10-19 15:17:48.268  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:48.292  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14825K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:48.296  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:48.319  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 50% free 12950K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:48.370  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:48.397  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13667K/25415K, paused 3ms+4ms, total 26ms
+10-19 15:17:48.397  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:48.421  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 717K, 50% free 12950K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:48.464  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:48.491  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13718K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:48.491  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:48.518  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 50% free 12949K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:48.534  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12949K/25415K, paused 14ms, total 14ms
+10-19 15:17:48.534  26214-26242/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.523MB for 1898512-byte allocation
+10-19 15:17:48.561  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14803K/25415K, paused 11ms+3ms, total 27ms
+10-19 15:17:48.909  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:48.952  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14803K/25415K, paused 2ms+4ms, total 41ms
+10-19 15:17:48.952  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:48.979  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1854K, 50% free 12949K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:48.995  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12949K/25415K, paused 14ms, total 14ms
+10-19 15:17:48.995  26214-26242/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.543MB for 1920016-byte allocation
+10-19 15:17:49.022  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14824K/25415K, paused 12ms+3ms, total 27ms
+10-19 15:17:49.104  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:49.132  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14824K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:49.132  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:49.167  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 50% free 12949K/25415K, paused 2ms+3ms, total 33ms
+10-19 15:17:49.214  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:49.241  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13666K/25415K, paused 2ms+4ms, total 25ms
+10-19 15:17:49.241  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:49.268  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 717K, 50% free 12949K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:49.311  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:49.335  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 47% free 13717K/25415K, paused 1ms+3ms, total 25ms
+10-19 15:17:49.335  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:49.362  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 50% free 12948K/25415K, paused 2ms+3ms, total 27ms
+10-19 15:17:49.593  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:49.616  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 44% free 14410K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:49.620  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:49.659  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1462K, 50% free 12948K/25415K, paused 13ms+8ms, total 39ms
+10-19 15:17:49.722  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:49.749  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 13948K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:49.749  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:49.784  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1000K, 50% free 12948K/25415K, paused 12ms+4ms, total 35ms
+10-19 15:17:49.800  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 50% free 12947K/25415K, paused 13ms, total 14ms
+10-19 15:17:49.804  26214-26241/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.541MB for 1920016-byte allocation
+10-19 15:17:49.831  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 42% free 14822K/25415K, paused 12ms+2ms, total 27ms
+10-19 15:17:49.944  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:49.972  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 42% free 14823K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:49.972  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:50.015  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2876K, 53% free 11948K/25415K, paused 3ms+4ms, total 40ms
+10-19 15:17:50.030  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 53% free 11948K/25415K, paused 15ms, total 15ms
+10-19 15:17:50.034  26214-26241/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 16.679MB for 5184016-byte allocation
+10-19 15:17:50.061  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 34% free 17011K/25415K, paused 12ms+3ms, total 27ms
+10-19 15:17:50.393  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:50.421  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 34% free 17011K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:50.421  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:50.460  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1855K, 41% free 15157K/25415K, paused 10ms+4ms, total 39ms
+10-19 15:17:50.511  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:50.538  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 38% free 15925K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:50.538  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:50.585  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 38% free 15925K/25415K, paused 2ms+3ms, total 45ms
+10-19 15:17:50.616  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed <1K, 30% free 17950K/25415K, paused 12ms+4ms, total 28ms
+10-19 15:17:50.815  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:50.843  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 30% free 17950K/25415K, paused 2ms+3ms, total 25ms
+10-19 15:17:50.843  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:50.901  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 30% free 17951K/25415K, paused 2ms+4ms, total 59ms
+10-19 15:17:50.933  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed <1K, 22% free 19976K/25415K, paused 11ms+3ms, total 28ms
+10-19 15:17:51.026  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:51.054  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 22% free 19976K/25415K, paused 2ms+4ms, total 27ms
+10-19 15:17:51.058  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:51.116  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 22% free 19976K/25415K, paused 2ms+4ms, total 60ms
+10-19 15:17:51.167  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:51.190  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 20% free 20522K/25415K, paused 2ms+4ms, total 26ms
+10-19 15:17:51.194  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:51.241  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 20% free 20522K/25415K, paused 10ms+4ms, total 46ms
+10-19 15:17:51.425  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:51.452  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 12% free 22376K/25415K, paused 2ms+3ms, total 27ms
+10-19 15:17:51.452  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:51.479  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 64K, 13% free 22312K/25415K, paused 2ms+3ms, total 27ms
+10-19 15:17:51.659  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 1ms
+10-19 15:17:51.686  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 5% free 24166K/25415K, paused 2ms+3ms, total 26ms
+10-19 15:17:51.686  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:51.714  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 5% free 24166K/25415K, paused 2ms+3ms, total 27ms
+10-19 15:17:51.729  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 5% free 24166K/25415K, paused 15ms, total 15ms
+10-19 15:17:51.737  26214-26241/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 25.476MB for 1898512-byte allocation
+10-19 15:17:51.936  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed 0K, 5% free 26020K/27271K, paused 15ms, total 15ms
+10-19 15:17:51.936  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:51.964  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 5% free 26020K/27271K, paused 3ms+3ms, total 28ms
+10-19 15:17:51.968  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:51.995  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1854K, 12% free 24166K/27271K, paused 3ms+4ms, total 28ms
+10-19 15:17:52.167  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:52.194  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 5% free 26019K/27271K, paused 2ms+3ms, total 28ms
+10-19 15:17:52.194  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:52.226  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1854K, 12% free 24165K/27271K, paused 3ms+4ms, total 28ms
+10-19 15:17:52.405  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:52.433  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 5% free 26019K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:54.061  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:54.128  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 8793K, 37% free 17293K/27271K, paused 17ms+9ms, total 67ms
+10-19 15:17:54.378  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:54.417  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2796K, 41% free 16358K/27271K, paused 2ms+4ms, total 40ms
+10-19 15:17:54.421  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:54.468  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1855K, 47% free 14503K/27271K, paused 10ms+9ms, total 47ms
+10-19 15:17:54.593  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:54.632  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 40% free 16379K/27271K, paused 2ms+4ms, total 40ms
+10-19 15:17:54.636  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:54.679  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 47% free 14504K/27271K, paused 2ms+4ms, total 44ms
+10-19 15:17:54.741  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:54.784  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 45% free 15221K/27271K, paused 2ms+3ms, total 42ms
+10-19 15:17:54.788  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:54.827  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 718K, 47% free 14503K/27271K, paused 2ms+8ms, total 39ms
+10-19 15:17:54.882  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:54.921  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 45% free 15271K/27271K, paused 2ms+4ms, total 38ms
+10-19 15:17:54.921  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:54.964  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 47% free 14503K/27271K, paused 2ms+4ms, total 42ms
+10-19 15:17:55.206  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:55.253  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 41% free 16357K/27271K, paused 2ms+3ms, total 43ms
+10-19 15:17:55.253  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:55.304  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1854K, 47% free 14503K/27271K, paused 16ms+4ms, total 52ms
+10-19 15:17:55.421  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:55.456  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 40% free 16378K/27271K, paused 2ms+3ms, total 37ms
+10-19 15:17:55.460  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:55.499  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 47% free 14502K/27271K, paused 2ms+3ms, total 38ms
+10-19 15:17:55.577  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:55.612  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 45% free 15220K/27271K, paused 2ms+8ms, total 38ms
+10-19 15:17:55.616  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:55.655  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 718K, 47% free 14502K/27271K, paused 2ms+4ms, total 38ms
+10-19 15:17:55.710  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:55.741  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 45% free 15270K/27271K, paused 4ms+3ms, total 32ms
+10-19 15:17:55.741  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:55.768  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 47% free 14502K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:56.007  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:56.034  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 42% free 15964K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:56.038  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:56.065  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1462K, 47% free 14501K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:56.132  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:56.159  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 44% free 15501K/27271K, paused 2ms+4ms, total 27ms
+10-19 15:17:56.163  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:56.190  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1000K, 47% free 14501K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:56.311  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:56.335  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 40% free 16376K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:56.339  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:56.366  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1875K, 47% free 14501K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:56.597  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:56.632  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 42% free 15963K/27271K, paused 2ms+4ms, total 35ms
+10-19 15:17:56.632  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:56.659  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1462K, 47% free 14501K/27271K, paused 2ms+4ms, total 27ms
+10-19 15:17:56.675  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 47% free 14500K/27271K, paused 15ms, total 15ms
+10-19 15:17:56.686  26214-26240/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 19.171MB for 5184016-byte allocation
+10-19 15:17:56.714  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 29% free 19563K/27271K, paused 12ms+3ms, total 28ms
+10-19 15:17:57.034  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:57.058  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 29% free 19563K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:57.061  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:57.089  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 5063K, 47% free 14500K/27271K, paused 3ms+4ms, total 27ms
+10-19 15:17:57.140  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:57.175  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 45% free 15268K/27271K, paused 1ms+4ms, total 34ms
+10-19 15:17:57.175  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:57.202  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 768K, 47% free 14500K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:57.233  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed <1K, 40% free 16525K/27271K, paused 12ms+4ms, total 29ms
+10-19 15:17:57.429  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:57.452  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 40% free 16525K/27271K, paused 2ms+3ms, total 26ms
+10-19 15:17:57.456  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:57.483  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 47% free 14500K/27271K, paused 3ms+3ms, total 27ms
+10-19 15:17:57.515  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed <1K, 40% free 16524K/27271K, paused 12ms+3ms, total 30ms
+10-19 15:17:57.608  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:57.636  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 40% free 16525K/27271K, paused 2ms+3ms, total 26ms
+10-19 15:17:57.640  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:57.671  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 47% free 14499K/27271K, paused 3ms+3ms, total 32ms
+10-19 15:17:57.718  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:57.745  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 45% free 15045K/27271K, paused 2ms+4ms, total 27ms
+10-19 15:17:57.749  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:57.776  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 546K, 47% free 14499K/27271K, paused 3ms+3ms, total 27ms
+10-19 15:17:57.831  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:57.858  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 44% free 15499K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:57.858  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:57.886  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1000K, 47% free 14499K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:58.007  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:58.030  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 40% free 16374K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:58.034  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:58.061  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2025K, 48% free 14349K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:58.077  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 48% free 14348K/27271K, paused 16ms, total 16ms
+10-19 15:17:58.085  26214-26240/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 19.023MB for 5184016-byte allocation
+10-19 15:17:58.112  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 29% free 19411K/27271K, paused 12ms+3ms, total 28ms
+10-19 15:17:58.440  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:58.464  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 29% free 19411K/27271K, paused 2ms+3ms, total 26ms
+10-19 15:17:58.468  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:58.495  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 2400K, 38% free 17011K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:58.550  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:58.577  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 35% free 17779K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:58.577  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:58.628  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 5063K, 54% free 12717K/27271K, paused 2ms+5ms, total 48ms
+10-19 15:17:58.643  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed <1K, 54% free 12716K/27271K, paused 17ms, total 17ms
+10-19 15:17:58.643  26214-26240/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 14.462MB for 2073616-byte allocation
+10-19 15:17:58.675  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 46% free 14741K/27271K, paused 12ms+3ms, total 30ms
+10-19 15:17:58.878  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:58.905  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 46% free 14741K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:58.909  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:58.979  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 46% free 14742K/27271K, paused 2ms+7ms, total 72ms
+10-19 15:17:59.011  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed <1K, 39% free 16767K/27271K, paused 12ms+2ms, total 28ms
+10-19 15:17:59.112  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:59.140  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 39% free 16767K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:59.140  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:59.202  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 39% free 16767K/27271K, paused 2ms+3ms, total 60ms
+10-19 15:17:59.257  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:59.284  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 37% free 17313K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:59.284  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:59.327  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 37% free 17313K/27271K, paused 2ms+5ms, total 44ms
+10-19 15:17:59.503  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:59.534  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 30% free 19167K/27271K, paused 2ms+3ms, total 28ms
+10-19 15:17:59.534  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:59.561  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 64K, 30% free 19103K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:59.745  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:59.772  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 24% free 20957K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:17:59.772  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:17:59.800  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 24% free 20957K/27271K, paused 2ms+4ms, total 27ms
+10-19 15:17:59.976  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:00.003  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 17% free 22811K/27271K, paused 2ms+6ms, total 31ms
+10-19 15:18:00.007  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:00.046  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1854K, 24% free 20957K/27271K, paused 2ms+4ms, total 37ms
+10-19 15:18:00.280  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:00.308  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 17% free 22811K/27271K, paused 2ms+3ms, total 27ms
+10-19 15:18:01.405  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:01.499  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 6506K, 40% free 16384K/27271K, paused 19ms+45ms, total 95ms
+10-19 15:18:01.663  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:01.874  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 44K, 37% free 17216K/27271K, paused 3ms+16ms, total 209ms
+10-19 15:18:01.878  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:02.034  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1859K, 44% free 15359K/27271K, paused 3ms+27ms, total 155ms
+10-19 15:18:02.159  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed <1K, 37% free 17383K/27271K, paused 16ms+13ms, total 103ms
+10-19 15:18:02.671  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 2ms
+10-19 15:18:02.722  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 5K, 37% free 17389K/27271K, paused 9ms+4ms, total 49ms
+10-19 15:18:02.722  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:02.772  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 37% free 17389K/27271K, paused 10ms+10ms, total 50ms
+10-19 15:18:03.054  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:03.097  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 3K, 30% free 19244K/27271K, paused 3ms+4ms, total 43ms
+10-19 15:18:06.538  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:06.616  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 13K, 30% free 19254K/27271K, paused 19ms+4ms, total 76ms
+10-19 15:18:06.643  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_FOR_ALLOC freed 2K, 30% free 19251K/27271K, paused 24ms, total 24ms
+10-19 15:18:06.651  26214-26243/com.epam.memorymanagement I/dalvikvm-heap﹕ Grow heap (frag case) to 23.811MB for 5184016-byte allocation
+10-19 15:18:06.698  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 0K, 11% free 24314K/27271K, paused 12ms+9ms, total 48ms
+10-19 15:18:07.163  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:07.202  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed <1K, 11% free 24314K/27271K, paused 2ms+4ms, total 39ms
+10-19 15:18:07.339  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:07.397  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 6K, 11% free 24316K/27271K, paused 5ms+5ms, total 56ms
+10-19 15:18:07.558  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:07.601  26214-26240/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1K, 4% free 26190K/27271K, paused 2ms+4ms, total 39ms
+10-19 15:18:08.272  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:08.319  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 6K, 4% free 26191K/27271K, paused 2ms+4ms, total 44ms
+10-19 15:18:08.421  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:08.468  26214-26242/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1K, 4% free 27190K/28295K, paused 2ms+4ms, total 46ms
+10-19 15:18:09.280  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:09.421  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 5068K, 22% free 22129K/28295K, paused 26ms+4ms, total 119ms
+10-19 15:18:09.507  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:09.550  26214-26227/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1K, 20% free 22674K/28295K, paused 3ms+10ms, total 42ms
+10-19 15:18:09.890  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:09.983  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 6K, 20% free 22675K/28295K, paused 17ms+10ms, total 87ms
+10-19 15:18:10.030  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 1K, 13% free 24699K/28295K, paused 13ms+8ms, total 46ms
+10-19 15:18:10.159  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 1ms
+10-19 15:18:10.198  26214-26241/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 0K, 13% free 24699K/28295K, paused 2ms+4ms, total 40ms
+10-19 15:18:11.659  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-19 15:18:11.718  26214-26243/com.epam.memorymanagement D/dalvikvm﹕ GC_EXPLICIT freed 1881K, 20% free 22826K/28295K, paused 6ms+11ms, total 58ms
+10-19 15:18:11.765  26214-26217/com.epam.memorymanagement D/dalvikvm﹕ GC_CONCURRENT freed 
