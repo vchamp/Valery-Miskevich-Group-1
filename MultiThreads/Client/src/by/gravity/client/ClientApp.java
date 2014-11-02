@@ -39,13 +39,20 @@ public class ClientApp {
         switch (operation) {
             case "1":
                 createUser();
+                showMenu();
                 break;
             case "2":
                 login();
+                showMenu();
                 break;
             case "3":
                 try {
-                    addMoney();
+                    if (isLogined()) {
+                        addMoney();
+                        showMenu();
+                    } else {
+                        showMenu();
+                    }
                 } catch (NotValidCurrencyException e) {
                     System.out.println(e.getMessage());
                     showMenu();
@@ -53,7 +60,13 @@ public class ClientApp {
                 break;
             case "4":
                 try {
-                    exchange();
+                    if (isLogined()) {
+                        exchange();
+                        showMenu();
+                    } else {
+                        showMenu();
+                    }
+
                 } catch (NotValidCurrencyException e) {
                     System.out.println(e.getMessage());
                     showMenu();
@@ -68,19 +81,18 @@ public class ClientApp {
 
     }
 
-    private void createUser() throws IOException {
+    public String createUser() throws IOException {
 
         System.out.println("Введите имя пользователя");
         String userName = mScanner.next();
         String url = Api.createUser(userName);
         String response = sendRequest(url);
         System.out.println(response);
+        return response;
 
-
-        showMenu();
     }
 
-    private void login() throws IOException {
+    public String login() throws IOException {
 
         System.out.println("Введите имя пользователя");
         String userName = mScanner.next();
@@ -90,41 +102,32 @@ public class ClientApp {
             mUserName = userName;
         }
         System.out.println(response);
-
-        showMenu();
+        return response;
 
     }
 
-    private void addMoney() throws IOException, NotValidCurrencyException {
+    public String addMoney() throws IOException, NotValidCurrencyException {
 
-        if (isLogined()) {
-            String currency = readCurrency();
-            String sum = readSum();
-            String url = Api.addMoney(mUserName, currency, sum);
-            String response = sendRequest(url);
-            System.out.println(response);
-            showMenu();
-        } else {
-            showMenu();
-        }
+        String currency = readCurrency();
+        String sum = readSum();
+        String url = Api.addMoney(mUserName, currency, sum);
+        String response = sendRequest(url);
+        System.out.println(response);
+        return response;
     }
 
 
-    private void exchange() throws NotValidCurrencyException, IOException {
+    public void exchange() throws NotValidCurrencyException, IOException {
 
-        if (isLogined()) {
-            System.out.println("Из какой валюты будем конвертировать");
-            String currencyFrom = readCurrency();
-            System.out.println("В какую валюту будем конвертировать");
-            String currencyTo = readCurrency();
-            String sum = readSum();
-            String url = Api.exchange(mUserName, currencyFrom, currencyTo, sum);
-            String response = sendRequest(url);
-            System.out.println(response);
-            showMenu();
-        } else {
-            showMenu();
-        }
+
+        System.out.println("Из какой валюты будем конвертировать");
+        String currencyFrom = readCurrency();
+        System.out.println("В какую валюту будем конвертировать");
+        String currencyTo = readCurrency();
+        String sum = readSum();
+        String url = Api.exchange(mUserName, currencyFrom, currencyTo, sum);
+        String response = sendRequest(url);
+        System.out.println(response);
 
     }
 
@@ -158,7 +161,7 @@ public class ClientApp {
 
     }
 
-    private String readCurrency() throws NotValidCurrencyException {
+    public String readCurrency() throws NotValidCurrencyException {
 
         System.out.println("Выберите валюту");
         System.out.println("1)BYR");
