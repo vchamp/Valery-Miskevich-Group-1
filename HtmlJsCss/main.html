@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Примеры форм авторизации</title>
+    <meta name="description" content="Примеры форм авторизации с использованием CSS3"/>
+    <meta name="keywords" content="css3, login, form, custom, input, submit, button, html5, placeholder"/>
+    <meta name="author" content="Codrops"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <script src="js/modernizr.custom.63321.js"></script>
+    <script src="js/bank.js"></script>
+    <script src="js/jquery-1.11.1.js"></script>
+</head>
+<body>
+<div class="login">
+    <p class="field">
+        <input type="text" name="login_field" class="login_field" placeholder="Логин или email"/>
+        <i class="icon-user icon-large"></i>
+    </p>
+
+    <p class="field">
+        <input type="password" name="password" placeholder="Пароль">
+        <i class="icon-lock icon-large"></i>
+    </p>
+
+    <p class="submit">
+        <button type="submit" name="login" onclick="login()"><i class="icon-arrow-right icon-large"></i>
+        </button>
+    </p>
+</div>
+
+<div class="logout">
+    <p class="field">
+        Добрый день, user
+        <button type="submit" name="logout">Выйти</button>
+    </p>
+</div>
+
+<div class="converter">
+    <p>Конвертировать валюту</p>
+    <br>
+
+    <p>Из какой
+        <select size="1" class="from">
+            <option value="first">USD</option>
+            <option value="second">EUR</option>
+            <option value="third" selected="selected">BYR</option>
+        </select>
+    </p>
+    <br>
+
+    <p>В какую
+        <select name="to" size="1" class="to">
+            <option selected="selected" value="first">USD</option>
+            <option value="second">EUR</option>
+            <option value="fourth">BYR</option>
+        </select>
+    </p>
+    <br>
+    <input type="text" class="amount" name="amount" placeholder="Сколько?" onkeyup="exchangeMoney(event)" onkeydown="isValidNumber(event)">
+    <br><br>
+
+    <p>Результат</p>
+
+    <p class="calculate_result">Введите сумму</p>
+
+</div>
+
+
+</body>
+</html>
