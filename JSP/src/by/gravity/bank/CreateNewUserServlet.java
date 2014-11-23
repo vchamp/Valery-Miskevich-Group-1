@@ -24,7 +24,7 @@ public class CreateNewUserServlet extends LoginServlet {
 	}
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		String userName = request.getParameter(Api.USER_NAME);
+		String userName = request.getParameter("userName");
 		try {
 			FileUtils.createUser(userName);
 			FileUtils.addMoney(userName, 100000, "BYR");
