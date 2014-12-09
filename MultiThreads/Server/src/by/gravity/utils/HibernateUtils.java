@@ -68,7 +68,6 @@ public class HibernateUtils {
                 }
 
                 session.getTransaction().commit();
-                Object o = getUser(session,userName);
             } else {
                 throw new UserExistsException();
             }
