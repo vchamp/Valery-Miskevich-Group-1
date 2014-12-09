@@ -166,15 +166,12 @@ public class ClientApp {
         System.out.println("Выберите валюту");
         System.out.println("1)BYR");
         System.out.println("2)USD");
-        System.out.println("3)EUR");
 
         String currency = mScanner.next();
         if (currency.equals("1")) {
             currency = "BYR";
         } else if (currency.equals("2")) {
             currency = "USD";
-        } else if (currency.equals("3")) {
-            currency = "EUR";
         } else {
             throw new NotValidCurrencyException();
         }
