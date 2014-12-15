@@ -2,24 +2,19 @@ package by.gravity.servlet;
 
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.WeakHashMap;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import by.gravity.constants.Api;
-import by.gravity.exception.NotEnoughMoneyException;
-import by.gravity.exception.UserExistsException;
-import by.gravity.utils.FileUtils;
+import by.gravity.utils.HibernateUtils;
 import by.gravity.utils.StringUtils;
 
 /**
  * Created by ilya.shknaj on 24.10.14.
  */
 public class MainServlet extends CommonServlet implements Api {
-
-    private WeakHashMap<String, Thread> threads = new WeakHashMap<>();
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
@@ -89,33 +84,24 @@ public class MainServlet extends CommonServlet implements Api {
     }
 
     private void createUser(PrintWriter writer, String userName) {
-
         try {
-            boolean result = FileUtils.createUser(userName);
+            boolean result = HibernateUtils.getInstance().createUser(userName);
             if (result) {
                 writer.append("OK");
             } else {
                 writer.append("Не удалось создать пользователя. Попробуйте повторить попытку позже");
             }
-        } catch (UserExistsException e) {
+        } catch (Exception e) {
             writer.append(e.getMessage());
-        } catch (IOException e) {
-            writer.append("Не удалось создать пользователя. Попробуйте повторить попытку позже");
         }
     }
 
     private void loginUser(PrintWriter writer, String userName) {
 
-        boolean result = FileUtils.login(userName);
-        if (result) {
-            writer.append("OK");
-            try {
-                writer.append(FileUtils.getBalance(userName));
-            } catch (UserExistsException e) {
-                writer.append(e.getMessage());
-            } catch (IOException e) {
-                writer.append("Не удалось получить баланс пользователя");
-            }
+        String userBalance = HibernateUtils.getInstance().getUserBalance(userName);
+        if (userBalance != null) {
+            writer.append("OK\n");
+            writer.append(userBalance);
         } else {
             writer.append("Пользователь ненайден");
         }
@@ -129,11 +115,10 @@ public class MainServlet extends CommonServlet implements Api {
         }
 
         try {
-            writer.append(FileUtils.addMoney(userName, Double.parseDouble(summ), currency));
-        } catch (UserExistsException e) {
+            writer.append(HibernateUtils.getInstance().addMoney(userName, Double.parseDouble(summ),
+                    currency));
+        } catch (Exception e) {
             writer.append(e.getMessage());
-        } catch (IOException e) {
-            writer.append("Не удалось обновить баланс попробуйте повторить позже");
         }
 
     }
@@ -166,13 +151,10 @@ public class MainServlet extends CommonServlet implements Api {
         }
 
         try {
-            writer.append("Курс обмена " + rate + "\n");
-            writer.append(FileUtils.exchange(userName, from, to, Double.parseDouble(sum), rate));
-        } catch (UserExistsException e) {
-            writer.append(e.getMessage());
-        } catch (IOException e) {
-            writer.append("Не удалось обменять деньги. Попробуйте повторить позже");
-        } catch (NotEnoughMoneyException e) {
+            writer.append("Курс обмена " + rate + " \n");
+            writer.append(HibernateUtils.getInstance()
+                    .exchange(userName, from, to, Double.parseDouble(sum), rate));
+        } catch (Exception e) {
             writer.append(e.getMessage());
         }
     }
