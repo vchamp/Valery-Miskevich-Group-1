@@ -30,6 +30,11 @@ public class MainController {
 		return "courses";
 	}
 	
+	@RequestMapping("/tutorspage")
+	public String getTutorsPage(Map<String, Object> map) {
+		return "tutors";
+	}
+	
 	@RequestMapping("/")
 	public String home() {
 		if (AuthService.hasAdminRole())

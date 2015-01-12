@@ -103,6 +103,10 @@ public class UserDaoImpl extends JdbcDaoSupport implements UserDao {
 	public SimpleGrid<User> getUsersPage(String filters, Integer page, Integer rows, String sortBy, String sortDirrection) {
 		//TODO: prepared sortStatement
 		String sortStatement = "ORDER BY " + sortBy + ' ' + sortDirrection;
+		String filter = "";
+		if (filters != null && filters.length() > 0) {
+			filter = "AND roles.name='" + filters + "' ";
+		}
 		String countSql = "SELECT COUNT(*) FROM USERS";
 		String sql = 
 			"SELECT "
@@ -119,7 +123,7 @@ public class UserDaoImpl extends JdbcDaoSupport implements UserDao {
 			+ ") AS u "
 			+ "LEFT OUTER JOIN (user_roles "
 				+ "JOIN roles "
-				+ "ON user_roles.role_id = roles.Id) "
+				+ "ON user_roles.role_id = roles.Id " + filter + ") "
 			+ "ON user_roles.user_id = u.id "
 			+ sortStatement; // the same sorting for result list
 		

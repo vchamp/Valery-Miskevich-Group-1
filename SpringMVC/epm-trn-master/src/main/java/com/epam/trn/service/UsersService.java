@@ -24,7 +24,7 @@ public class UsersService {
 	private UserDao userDao;
 
 	public Grid<User> getUsersGrid(String filters, Integer page, Integer rows, String sortBy, String sortDirrection) {
-		return userDao.getUsersPage(null, page, rows, sortBy, sortDirrection);
+		return userDao.getUsersPage(filters, page, rows, sortBy, sortDirrection);
 	}
 	
 	public void createUser(User user) throws NoSuchAlgorithmException {

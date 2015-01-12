@@ -14,8 +14,8 @@ public interface UserDao {
 
 	public User findById(long id);
 	
-	public SimpleGrid<User> getUsersPage(String filters, Integer page, Integer rows, String sortBy, String sortDirrection);
 		
+	public SimpleGrid<User> getUsersPage(String filters, Integer page, Integer rows, String sortBy, String sortDirrection);
 	public Boolean deleteUsers(ArrayList<Long> ids);
 	
 	public Boolean updateUser(User user);
